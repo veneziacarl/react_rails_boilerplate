@@ -1,7 +1,7 @@
 This is a template for Rails projects with React injected in to the asset pipeline.
 
 app/assets/javascripts contains the bundle.js file which is picked up in the asset pipeline.
-client directory holds all component information and entry.jsx which is targeting in the webpack config
+The `Client` directory holds all component information and `entry.jsx` which is targeted in the webpack config as the entry point.
 
 To use: <br />
 `$ git clone git@github.com:veneziacarl/react_rails_boilerplate.git`
