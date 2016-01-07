@@ -5,6 +5,11 @@ The `Client` directory holds all component information and `entry.jsx` which is 
 
 To use: <br />
 `$ git clone git@github.com:veneziacarl/react_rails_boilerplate.git`
+`cd react_rails_boilerplate`
+`npm install`
+`bundle install`
+`rake db:create`
+`rake db:migrate`
 
 Server commands: <br />
 in two separate windows in your rails root run <br />
